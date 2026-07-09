@@ -62,6 +62,6 @@ For each issue:
 - Suggested solution with code example
 - Rationale for the change
 
-Focus on: ${input:focus:Any specific areas to emphasize in the review?}
+Focus on any areas the reviewer calls out.
 
 Be constructive and educational in your feedback.
